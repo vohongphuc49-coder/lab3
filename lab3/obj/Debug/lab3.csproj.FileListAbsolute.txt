@@ -1,0 +1,7 @@
+D:\test code\lab3\bin\Debug\lab3.exe.config
+D:\test code\lab3\bin\Debug\lab3.exe
+D:\test code\lab3\bin\Debug\lab3.pdb
+D:\test code\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\test code\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\test code\lab3\obj\Debug\lab3.exe
+D:\test code\lab3\obj\Debug\lab3.pdb
